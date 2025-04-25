@@ -86,7 +86,6 @@ It will:
 ├── analyze_traffic.py
 ├── gui.py
 ├── run-analyzer.sh
-├── requirements.txt
 ├── packet_log.csv (auto-generated)
 ├── protocol_distribution.png (auto-generated)
 ```
