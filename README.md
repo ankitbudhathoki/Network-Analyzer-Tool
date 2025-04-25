@@ -98,12 +98,8 @@ It will:
 
 ---
 
-### *To Do / Improvements*
-- Real-time Streamlit dashboard
-- Port scan detection
-- Email alert system for suspicious traffic
 
----
+
 
 ### *License*
 This project is licensed under the MIT License.
