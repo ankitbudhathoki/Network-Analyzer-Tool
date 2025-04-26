@@ -40,7 +40,7 @@ A simple Python-based tool to sniff, log, and analyze network traffic, with real
 
 #### Clone the repo:
 ```bash
-git clone https://github.com/yourusername/network-traffic-analyzer.git
+git clone https://github.com/ankitbudhathoki/network-traffic-analyzer.git
 cd network-traffic-analyzer
 ```
 
